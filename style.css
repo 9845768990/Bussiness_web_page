@@ -43,7 +43,7 @@ section{
     border-radius: 5rem;
     background:var(--gradient);
     font-size: 1.7rem;
-    color:#fff;
+    color:blue;
     cursor: pointer;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     transition: all .3s linear;
